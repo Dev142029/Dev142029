@@ -1,5 +1,6 @@
 
 <div align="center">
+<div align="center">
 <img src="https://cybr.com/wp-content/uploads/2020/05/18697-1024x684.jpg" width="100%"/>
 Full Stack Developer | ML Engineer | RAG Assistant Developer | Gen AI Builder | Agentic AI Enthusiast | Product Thinker
 
