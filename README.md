@@ -1,7 +1,6 @@
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=280&section=header&text=Hi%20👋,%20I'm%20Dev%20Saxena&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20ML%20Engineer%20|%20RAG%20Assistant%20Developer&descAlignY=55&descSize=18" width="100%](https://cybr.com/wp-content/uploads/2020/05/18697-1024x684.jpg)"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=280&section=header&text=Hi%20👋,%20I'm%20Dev%20Saxena&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20ML%20Engineer%20|%20RAG%20|%20Gen%20AI%20|%20Agentic%20AI%20|%20Product%20Thinker&descAlignY=55&descSize=18" width="100%"/>
 
 ### Full Stack Developer | ML Engineer | RAG | Gen AI | Agentic AI | Product Thinker
 
