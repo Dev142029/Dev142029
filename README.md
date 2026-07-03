@@ -3,19 +3,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=280&section=header&text=Hi%20👋,%20I'm%20Dev%20Saxena&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20ML%20Engineer%20|%20RAG%20Assistant%20Developer&descAlignY=55&descSize=18" width="100%](https://cybr.com/wp-content/uploads/2020/05/18697-1024x684.jpg)"/>
 
-### Full Stack Developer | ML Engineer | RAG Assistant Developer | Gen AI Builder | Agentic AI Enthusiast | Product Thinker
-Full Stack Developer | ML Engineer | RAG Assistant Developer | Gen AI Builder | Agentic AI Enthusiast | Product Thinker
+### Full Stack Developer | ML Engineer | RAG | Gen AI | Agentic AI | Product Thinker
+Full Stack Developer | ML Engineer | RAG | Gen AI | Agentic AI | Product Thinker
 
 I build scalable web applications, intelligent AI solutions, and Gen AI powered systems that solve real-world problems.
 I love combining code, data and AI to create impact.
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Dev142029&color=8a2be2&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/Dev142029?style=for-the-badge&color=blue&label=FOLLOWERS)
-![Following](https://img.shields.io/github/followers/Dev142029?style=for-the-badge&color=green&label=FOLLOWING)
-
-<br/>
 
 ![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/-Node.js-393939?style=for-the-badge&logo=node.js&logoColor=339933)
@@ -33,16 +26,14 @@ I love combining code, data and AI to create impact.
 - 🚀 Full Stack Developer with a passion for building scalable and high-performance web applications.
 - 🧠 ML Engineer exploring machine learning, deep learning, and data-driven solutions.
 - 🤖 Building RAG Assistants, Gen AI applications and experimenting with Agentic AI workflows.
-- 📋 Currently working as a Product Coordinator, bridging between business and technology.
+- 📋 Currently working as a AI Product Manager, bridging between business and technology.
 - 🌱 Always learning, always building, always improving.
 
 ## 🧰 Tech Stack
 
 **Languages**  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
@@ -51,7 +42,6 @@ I love combining code, data and AI to create impact.
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 
 **Backend**  
@@ -179,7 +169,7 @@ Personal portfolio built with modern UI/UX and animations using React & Tailwind
 - ✅ Agentic AI & Autonomous Agents
 - ✅ Cloud & DevOps (AWS, Docker, CI/CD)
 
-## 📌 Product & Management (15%)
+## 📌 Product & Management 
 - Requirement Gathering & Analysis
 - PRD & User Stories
 - Jira & Sprint Planning
