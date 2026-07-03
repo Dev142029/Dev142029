@@ -1,10 +1,9 @@
+
 <div align="center">
-
 <img src="https://cybr.com/wp-content/uploads/2020/05/18697-1024x684.jpg" width="100%"/>
+Full Stack Developer | ML Engineer | RAG Assistant Developer | Gen AI Builder | Agentic AI Enthusiast | Product Thinker
 
-### Full Stack Developer | ML Engineer | RAG Assistant Developer | Gen AI Builder | Agentic AI Enthusiast | Product Thinker
-
-I build scalable web applications, intelligent AI solutions, and Gen AI powered systems that solve real-world problems.  
+I build scalable web applications, intelligent AI solutions, and Gen AI powered systems that solve real-world problems.
 I love combining code, data and AI to create impact.
 
 <br/>
