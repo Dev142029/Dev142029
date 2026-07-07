@@ -178,10 +178,21 @@ Personal portfolio built with modern UI/UX and animations using React & Tailwind
 ## 🤝 Connect with Me
 
 <p align="left">
-<a href="www.linkedin.com/in/dev-saxena-1b055b249" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://dev142029.github.io/Portfolio-Website" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-4B0082?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-<a href="mailto:dev784506@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/-Download%20Resume-2E8B57?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/dev-saxena-1b055b249/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://dev142029.github.io/Portfolio-Website" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-4B0082?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+
+  <a href="mailto:dev784506@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="#">
+    <img src="https://img.shields.io/badge/-Download%20Resume-2E8B57?style=for-the-badge&logo=googledrive&logoColor=white"/>
+  </a>
 </p>
 
 ## 👨‍💻 Coding Profiles
