@@ -1,7 +1,7 @@
 
 <div align="center">
 <img src="tech-banner.gif" width="100%"/>
-### Full Stack Developer | ML Engineer | RAG | Gen AI | Agentic AI | Product Thinker
+    Full Stack Developer | ML Engineer | RAG | Gen AI | Agentic AI | Product Thinker
 
 
 I build scalable web applications, intelligent AI solutions, and Gen AI powered systems that solve real-world problems.
