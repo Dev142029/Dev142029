@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="dev-saxena-banner (1).gif" width="100%"/>
+<img srcdev-saxena-banner (1).svg" width="100%"/>
     Full Stack Developer | ML Engineer | RAG | Gen AI | Agentic AI | Product Thinker
 
 
