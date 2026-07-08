@@ -142,7 +142,7 @@ Personal portfolio built with modern UI/UX and animations using React & Tailwind
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dev142029&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%"/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dev142029&theme=radical&hide_border=true" width="48%"/>
 
 <br/>
@@ -150,11 +150,6 @@ Personal portfolio built with modern UI/UX and animations using React & Tailwind
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev142029&layout=compact&theme=radical&hide_border=true" width="48%"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev142029&theme=react-dark&hide_border=true" width="48%"/>
 
-</div>
-
-### 🏆 GitHub Trophies
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Dev142029&theme=radical&no-frame=true&row=1&column=6" />
 </div>
 
 ---
